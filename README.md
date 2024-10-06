@@ -27,8 +27,8 @@ This is a RESTful API built with Express.js and MongoDB for managing a collectio
 - Visit [Link](https://medium.com/@lorenzozar/how-to-get-your-own-openai-api-key-f4d44e60c327).
 - Set up environment variables:
     Create a .env file in the root directory and add the following:
-    MONGODB_URI=<your-mongodb-connection-string>
-    OPENAI_API_KEY=<your-secret-key>
+    - MONGODB_URI=<your-mongodb-connection-string>
+    - OPENAI_API_KEY=<your-secret-key>
 
 - Start the server:
     `yarn start`
