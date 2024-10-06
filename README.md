@@ -18,7 +18,7 @@ This is a RESTful API built with Express.js and MongoDB for managing a collectio
 ### Installation
 
 - Clone this repo:
-    `git clone https://github.com/paularinzee/react-crud-with-openai.git`
+    `git clone https://github.com/paularinzee/expressjs-crud-with-openai.git`
 - Navigate to the project directory:
     `cd movie-api`
 - Install dependencies:
