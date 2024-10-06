@@ -22,7 +22,7 @@ This is a RESTful API built with Express.js and MongoDB for managing a collectio
 - Navigate to the project directory:
     `cd movie-api`
 - Install dependencies:
-    `yarn install`
+    `yarn`
 ### How To Get Your Own OpenAI API Key
 - Visit [Link](https://medium.com/@lorenzozar/how-to-get-your-own-openai-api-key-f4d44e60c327).
 - Set up environment variables:
